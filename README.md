@@ -27,7 +27,7 @@ This repository provides a template for building a RESTful API using Go with fea
 1. Clone the repository
 
 ```bash
-git clone https://github.com/araujo88/golang-rest-api-template
+git clone https://github.com/ahmadalahrsh18/golang-rest-api-template
 ```
 
 2. Navigate to the directory
